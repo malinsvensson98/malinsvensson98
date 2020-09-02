@@ -7,6 +7,6 @@ I live in Sweden together with my boyfriend and our miniature poodle Polly.
 
 Some facts about me:
 - 🔭 I’m currently studying webdeveloping at the Mid Sweden University in Sundsvall, Sweden.
-- 🌱 I’m currently learning the course "webdeveloping 3". 
+- 🌱 I’m currently learning "webdeveloping 3" which contain some exercises in Github (thats why I'm new here). 
 - 📫 How to reach me: malin_s@live.se 
 
